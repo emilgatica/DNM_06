@@ -1,0 +1,103 @@
+[
+	{
+        "id": 2017756,
+        "name": "Popova",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 131.722778,
+            "lat": 42.960281
+        }
+    },
+    {
+        "id": 2017912,
+        "name": "Plastun",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 136.293884,
+            "lat": 44.756111
+        }
+    },
+    {
+        "id": 2018046,
+        "name": "Perevoz",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 100.633331,
+            "lat": 54.549999
+        }
+    },
+    {
+        "id": 2018056,
+        "name": "Peretino",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 133.144165,
+            "lat": 43.004719
+        }
+    },
+    {
+        "id": 2018069,
+        "name": "Peleduy",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 112.740562,
+            "lat": 59.628891
+        }
+    },
+    {
+        "id": 2018301,
+        "name": "Osa",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 103.876938,
+            "lat": 53.387218
+        }
+    },
+    {
+        "id": 2018697,
+        "name": "Ochemi",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 111.099998,
+            "lat": 55.583328
+        }
+    },
+    {
+        "id": 2019296,
+        "name": "Never",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 124.166672,
+            "lat": 53.98333
+        }
+    },
+    {
+        "id": 2019750,
+        "name": "Moty",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 103.900284,
+            "lat": 52.075279
+        }
+    },
+    {
+        "id": 2019951,
+        "name": "Mirny",
+        "state": "",
+        "country": "RU",
+        "coord": {
+            "lon": 113.961113,
+            "lat": 62.535278
+        }
+    }
+
+]
